@@ -53,7 +53,7 @@ and you won't lose your bonus.
 the final boss 2 survival spellcards and 3 instant game over cards if you get it
 Nulled lives to make it more challenging
 
-* Bad  Ending : play on easy mode
+* Bad  Ending : not 1cc Normal
 * Good Ending : 1cc Normal
 * True Ending : complete the game on lunatic. With or without continues to make it fair.
-
+* Worst Ending: lose all continues

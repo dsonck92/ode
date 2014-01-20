@@ -45,12 +45,12 @@ Game objects:
 * Pattern
     This is the object that is used by SpellCard and Enemy objects and define a series of how bullets are created.
     
-Defines
--------
+Logic
+-----
 
 Spell card:
 
-In order to create a spell card, you would define a SpellCard object. This SpellCard object will define what patterns will be started and when.
+SpellCard objects will define what patterns will be started and when.
 You can choose to start a pattern and define that it should wait until this pattern is finished, or you can choose to start a pattern and do
 the next action on the next frame. There are special actions that simply wait for an amount of frames in order to delay different patterns.
 
@@ -70,7 +70,25 @@ Movement:
 
 Movement is controlled by its physics settings. Bullets can either be directly controlled by changing it's (x,y) values, by changing speed and direction
 , by changing the acceleration in a direction or by setting force objects. (So yeah, it's basically real life simplified physics)
-    
+
+Internal workings
+-----------------
+
+The game keeps a record of Template objects. The Templates are simple static objects and define how the game is run. Once the the game starts.
+The Template object generate their non Template versions of themselves who actually interact with the world and do things. Every object has
+a link to their Template object to be aple
+
+Ownership
+---------
+
+In general, objects hold strong references to their own Template objects. Every Template object holds strong references to other Template objects.
+
+* Scene objects hold strong references to Boss objects.
+* Boss objects hold strong references to SpellCard objects and Drawable objects.
+* SpellCard objects hold weak references to Boss objects and strong references to Pattern objects.
+* Pattern objects hold weak references to SpellCard objects and strong references to Bullet objects.
+* Bullet objects hold strong references to Drawable objects.
+
 Your first spell card
 ---------------------
 
@@ -90,8 +108,11 @@ Then you would create several Pattern objects. In those Pattern objects, you cho
     * Arc
         Creates bullets from an arc, which is evenly distributed. The start and end points can be dependent on the players position. It also sets the
         initial speed to a fixed value and the angle to diverge from the center
-    * Star
+    * Point
         Creates bullets from a point. It sets the inital speed to a fixed value and evenly distributes the angles over the bullets to diverge from the center
+    * Star
+        Creates bullets from a point. It sets the inital speed to a variable value based on the angle and evenly distributes the angles over the bullets to
+        diverge from the center
 
 When an emitter is used, it can optionally set various properties. All simple emitters can set the speed and angle to a fixed value or to a value based
 on the location of the bullet (diverging from center). With the advanced emitters, this is always the case.
@@ -111,6 +132,8 @@ your special effects and sprites. There are several special transform settings t
     This will rotate and stretch the sprite to form a line, this is used for beam like bullets.
 * Trail
     This will draw several (different) sprites where the bullet was. Used for laser like effects.
+
 File formats
 ------------
 
+The engine uses a special ogg background music file. It is an ogg file with special tags defining what should be repeated.
