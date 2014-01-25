@@ -42,8 +42,12 @@ The stage 6 boss is a crazed lunatic dog who tries to merge hell with genso alon
 Spellcards
 ----------
 
-Tatsuko:
-    Healing Sign: Absorb Damage
+* Eris
+    * Blood Sign  : Nightmare
+    * Blood Sign  : Tera Flame
+    * Bloody Word : Death Strike
+* Tatsuko:
+    * Healing Sign: Absorb Damage
 
 Notes
 -----
