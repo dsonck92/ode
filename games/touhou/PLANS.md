@@ -48,6 +48,30 @@ Spellcards
     * Bloody Word : Death Strike
 * Tatsuko:
     * Healing Sign: Absorb Damage
+    
+Music
+-----
+
+* Stage 1
+    * Deep Mountain
+    * Withered Leaf
+* Stage 2
+    * Charming Domination
+    * Necro-Fantasy
+* Stage 3
+    * Ultimate Truth
+    * Necrofantasia
+* Stage 4
+    * End Of Daylight
+    * Remix: Mima and Shinki ( Complete Darkness & Legendary Illusion ~ Infinite Being 
+* Stage 5
+    * Mana Khemia 2 :Chaotic Moon
+    * Mana Khemia 2 OST Verethraghna or Dracula's theme
+* Stage 6
+    * Sacred Saber-Mana Khemia 2 
+    * (http://www.youtube.com/watch?v=z5ZAKgltkxo&app=desktop)
+* Extra Stage
+    * Maiden's Cappricio and Love Colored Master Spark
 
 Notes
 -----
