@@ -28,7 +28,7 @@ Stage 4
 * Mima appears
 ```
     Mima   : Hello my nostalgia servant. How are you doing?
-    Marisa : *shocked * What are you doing here! I thought you were long dead...
+    Marisa : *shocked* What are you doing here! I thought you were long dead...
     Mima   : *calm* I am dead to begin with, either way I'm here to prevent you from proceeding.
     Marisa : so you are the culprit? then I am goin' to destroy you.
     Mima   : Unfortunately, I am not the one. I'm just helping the culprit to destroy gensokyo.
@@ -40,15 +40,15 @@ Stage 4
 ```
 * Shinki appears
 ```
-    Shinki  : Allow me to join the battle.
+    Shinki : Allow me to join the battle.
     Marisa : You again! Gah, what are all the old ones doing here.
-    Shinki  : I got the news that you are having something with my creation.
+    Shinki : I got the news that you are having something with my creation.
     Marisa : Alice you mean? We dont have a deep relationship.
-    Shinki  : And that is why I am here, to see you if you are having any relationship with my creation.
+    Shinki : And that is why I am here, to see you if you are having any relationship with my creation.
     Marisa : 2 on 1 doesn't sound good to me.
     Mima   : Dont worry... It should be easy since we haven't danmaku'd in a long time.
     Marisa : I think that applied to you two...
-    Shinki  : ... Shall we begin then?
+    Shinki : ... Shall we begin then?
     Marisa : You two don't really have patience now, do you?
 ```
 
