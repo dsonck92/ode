@@ -23,8 +23,8 @@ Stage 4
 -------
 
 ```
-    Marisa : I better hurry and get the culprit , or Reimu will be mad again .
-    ???    : Oh my , What a rare sight .
+    Marisa : I better hurry and get the culprit... or Reimu will be mad again.
+    ???    : Oh my... What a rare sight...
 ```
 * Mima appears
 ```
