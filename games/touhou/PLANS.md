@@ -17,6 +17,18 @@ Bosses
 5. Eris, a vampire type demon
 6. Tatsuko, a crazed lunatic dog who tries to merge hell with genso along the help of her friend Eris
 
+Mini Bosses
+-----------
+1. Letty and Cirno
+2. Chen
+3. Chen And Ran
+4. Rival Battle
+    * Reimu vs Sanae
+    * Sakuya vs Youmu
+    * Marisa vs Alice (Non playable)
+5. Mima 
+6. Shinki
+
 Synopsis
 --------
 
@@ -49,7 +61,7 @@ Spellcards
 * Tatsuko:
     * Healing Sign       : Absorb Damage
     * Gate of Absorption : Agony         - (Sword Pattern with blades)
-    * 
+    * Divinity Sword     : Dimensional Slash (Large Lazer pattern after a slash *Master Spark going vertically
     * 
     * End of the World   : Big Bang
     
