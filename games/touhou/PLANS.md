@@ -7,6 +7,8 @@ Characters
 1. Reimu
 2. Marisa
 3. Sanae
+4. Youmu Konpaku
+5. Sakuya Izayoi
 
 Bosses
 ------
@@ -86,6 +88,7 @@ Music
 * Stage 6
     * Sacred Saber-Mana Khemia 2 
     * (http://www.youtube.com/watch?v=z5ZAKgltkxo&app=desktop)
+    * UFO Menu theme
 * Extra Stage
     * Maiden's Cappricio and Love Colored Master Spark
 
