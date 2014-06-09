@@ -43,11 +43,15 @@ Spellcards
 ----------
 
 * Eris
-    * Blood Sign  : Nightmare
-    * Blood Sign  : Tera Flame
-    * Bloody Word : Death Strike
+    * Blood Sign         : Nightmare
+    * Blood Sign         : Tera Flame
+    * Bloody Word        : Death Strike
 * Tatsuko:
-    * Healing Sign: Absorb Damage
+    * Healing Sign       : Absorb Damage
+    * Gate of Absorption : Agony         - (Sword Pattern with blades)
+    * 
+    * 
+    * End of the World   : Big Bang
     
 Music
 -----
