@@ -4,9 +4,9 @@ Touhou Miketsu: Weakening of the Harurei Border
 
 Characters
 ----------
-1. Reimu
-2. Marisa
-3. Sanae
+1. Reimu Hakurei
+2. Marisa Kirisame
+3. Sanae Kochiya
 4. Youmu Konpaku
 5. Sakuya Izayoi
 
