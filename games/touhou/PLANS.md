@@ -16,8 +16,8 @@ Bosses
 2. Ran
 3. Yukari
 4. Mima and Shinki
-5. Eris, a vampire type demon
-6. Tatsuko, a crazed lunatic dog who tries to merge hell with genso along the help of her friend Eris
+5. TBA
+6. TBA
 
 Mini Bosses
 -----------
