@@ -25,9 +25,7 @@ Mini Bosses
 2. Chen
 3. Chen And Ran
 4. Rival Battle
-    * Reimu vs Sanae
-    * Sakuya vs Youmu
-    * Marisa vs Alice (Non playable)
+    * Reimu/Marisa/Sanae/Sakuya/Youmu
 5. Mima 
 6. Shinki
 
