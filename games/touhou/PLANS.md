@@ -56,17 +56,7 @@ The stage 6 boss is a crazed lunatic dog who tries to merge hell with genso alon
 Spellcards
 ----------
 
-* Eris
-    * Blood Sign         : Nightmare
-    * Blood Sign         : Tera Flame
-    * Bloody Word        : Death Strike
-* Tatsuko:
-    * Healing Sign       : Absorb Damage
-    * Gate of Absorption : Agony         - (Sword Pattern with blades)
-    * Divinity Sword     : Dimensional Slash (Large Lazer pattern after a slash *Master Spark going vertically
-    * 
-    * End of the World   : Big Bang
-    
+
 Music
 -----
 
